@@ -18,7 +18,7 @@ element = document.getElementById('task-title').style.padding = '4px';
 element = document.getElementById('task-title').textContent = 'Hello world';
 element = document.getElementById('task-title').innerText = 'Hello';
 element = document.getElementById('task-title').innerHTML = 'Hello Yea';
-element = document.getElementById('task-title').innerHTML = '<span style ="color:green"> Hello task </task>';
+element = document.getElementById('task-title').innerHTML = '<span style ="color:green"> Hello task </span>';
 console.log(element);
 
 
