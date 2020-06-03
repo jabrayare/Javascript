@@ -53,7 +53,7 @@ let sorted = merged.sort(function(x,y){
 })
 
 //sort array numbers.
-// accending order.
+// descending order.
 merged.sort(function(x,y){
   return y - x;
 })
